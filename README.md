@@ -94,7 +94,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Tharun kumar</footer></div>
+                Copyright &copy;2023 Developed by Balasudhan</footer></div>
             </div>
         </div>
     </body>
@@ -257,7 +257,7 @@ Publish the website in the given URL.
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Tharun kumar</footer></div>
+                Copyright &copy;2023 Developed by Balasudhan</footer></div>
             </div>
         </div>
     </body>
@@ -431,7 +431,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Tharun kumar.M</footer></div>
+                Copyright &copy;2023 Developed by Balasudhan</footer></div>
             </div>
         </div>
     </body>
@@ -493,7 +493,7 @@ Publish the website in the given URL.
                     <ul>
                         <li><b>Landline:</b> 23453444</li>
                         <li><b>Mobile</b>: 9124445798</li>
-                        <li><b>Facebook</b>: fb/tharun</li>
+                        <li><b>Facebook</b>: fb/Balasudhan</li>
                         <li><b>Email Id:</b>na@nizso.com</li>
                     </ul>
                     <div style="text-align: center;color:rgb(198, 97, 198);font-size:20px;"><b>Use our services and Beautify Yourself!</b></div>
@@ -501,7 +501,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by ALAGU NACHIYAR</footer></div>
+                Copyright &copy;2023 Developed by Balasudhan</footer></div>
             </div>
         </div>
     </body>
@@ -570,7 +570,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Tharun kumar</footer></div>
+                Copyright &copy;2023 Developed by Balasudhan</footer></div>
             </div>
         </div>
     </body>
